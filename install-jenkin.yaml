@@ -1,3 +1,5 @@
+# How: ansible-playbook install-jenkins.yaml
+# OS based: AMI Linux
 ---
 - hosts: 127.0.0.1
   connection: local
